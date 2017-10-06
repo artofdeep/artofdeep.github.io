@@ -1,0 +1,47 @@
+body {
+  background-color: black;
+}
+#header {
+  background-color: blue;
+  color: red;
+  font-family: 'Dancing Script', cursive;
+  height: 90pt;
+  display: block;
+}
+#header a {
+  color: red;
+  text-decoration: none;
+}
+.header-title {
+  float: left;
+}
+.header-list {
+  float: right;
+}
+.header-list li {
+  display: inline;
+}
+#content {
+  display: block;
+  background-color: white;
+  font-family: 'Dancing Script', cursive;
+  color: green;
+  height: auto;
+}
+#content a {
+  color: green;
+  text-decoration: none;
+}
+#footer {
+  background-color: black;
+  display: block;
+  color: yellow;
+  font-family: 'Dancing Script', cursive;
+}
+#footer a {
+  color: yellow;
+  text-decoration: none;
+}
+.nav-column li {
+  display: inline;
+}
